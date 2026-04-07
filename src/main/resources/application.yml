@@ -1,0 +1,11 @@
+spring:
+  application:
+    name:
+      VK_Spring
+  grpc:
+    server:
+      port: 9090
+
+tarantool:
+  host: localhost
+  port: 3301
